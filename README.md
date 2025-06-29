@@ -68,10 +68,7 @@ Follow these setps 👇👇
 ` and your new one should look like this:
    `DATABASE=mongodb+srv://myusername:myclusterpassword@mycluster.mongodb.net/ecommerce?retryWrites=true&w=majority`
    you can find the mongo url by goto the mongodb atlas website and goto your database and you can find a connect button and click on that you will see the url. And modify the url quite like my one with your secret info.
-   N.B: And you must need to provide the cluster password not your account password! So find your cluster password from database access menu in mongodb atlast cloud and change accoding to you. Here I provide all image's that you can undarstand better
-   ![Alt Text](assetREADME.md/atlasUrl.png)
-   ![Alt Text](assetREADME.md/clusterPassword.png)
-   ![Alt Text](assetREADME.md/networkAccess.png)
+   N.B: And you must need to provide the cluster password not your account password! So find your cluster password from database access menu in mongodb atlast cloud and change accoding to you. 
 
 6. Then come to render website. Give all of the imformations I set in the image below just change the name of your project and then must be change the branch name to `master` to `render-deploy-backend`
 
